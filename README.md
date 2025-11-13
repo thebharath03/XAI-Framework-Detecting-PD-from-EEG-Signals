@@ -24,7 +24,7 @@ The proposed framework follows a structured signal-processing and machine-learni
 9. Classifiers Compared: Five classifiers were trained and evaluated: SVM (RBF Kernel), Logistic Regression, k-Nearest Neighbors (k-NN), Random Forest, and XGBoost
 
 🏆 Key Results
-The best performance was achieved by combining the XGBoost classifier with the Mutual Information feature selection method222222.
+The best performance was achieved by combining the XGBoost classifier with the Mutual Information feature selection method.
 Test F1-Score: 0.9905
 Test Accuracy: 0.9905 24
 Explainability (XAI) Insights
